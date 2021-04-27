@@ -1,0 +1,12 @@
+.HealthBar{
+  width:400px;
+  border: #444 solid 1px;
+}
+
+.HealthBar h3{
+  margin:0;
+}
+
+.HealthBar .currentHealth{
+  background-color: red;
+}
